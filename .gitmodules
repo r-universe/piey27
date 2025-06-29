@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ProteinPCA"]
+	path = ProteinPCA
+	url = https://github.com/piey27/proteinpca
+[submodule "adsoRptionCMF"]
+	path = adsoRptionCMF
+	url = https://github.com/cran/adsoRptionCMF
+[submodule "adsoRptionCV"]
+	path = adsoRptionCV
+	url = https://github.com/piey27/adsorptioncv
+[submodule "adsoRptionMCMC"]
+	path = adsoRptionMCMC
+	url = https://github.com/piey27/adsorptionmcmc
