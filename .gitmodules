@@ -14,3 +14,6 @@
 [submodule "adsoRptionMCMC"]
 	path = adsoRptionMCMC
 	url = https://github.com/piey27/adsorptionmcmc
+[submodule "suRface.analytics"]
+	path = suRface.analytics
+	url = https://github.com/cran/suRface.analytics
