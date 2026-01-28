@@ -14,6 +14,9 @@
 [submodule "adsoRptionMCMC"]
 	path = adsoRptionMCMC
 	url = https://github.com/piey27/adsorptionmcmc
+[submodule "pkpd.Release"]
+	path = pkpd.Release
+	url = https://github.com/cran/pkpd.Release
 [submodule "suRface.analytics"]
 	path = suRface.analytics
 	url = https://github.com/piey27/surface.analytics
